@@ -82,9 +82,3 @@ class KOBOLD(NPC):
 
 
 npc = NPC()
-kobold = KOBOLD()
-
-def main():
-    HÉROS()
-
-main()
